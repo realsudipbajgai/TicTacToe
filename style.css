@@ -40,3 +40,11 @@ body{
     height: 50px;
     margin: 25px auto;
 }
+
+#result p{
+    margin: 12px auto;
+    width: 112px;
+    font-size: 1.2em;
+    color: #6531c1;
+    font-weight: 700;
+}
